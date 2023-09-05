@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: <https://github.com/PercyMmutle/PyPackage>
+Author: <Percy Mmutle>
+Author-email: <percymmutle99@gmail.com>
+License: MIT
+
+# Mypackage
+created to select top numbers 
+# how to install
+.....
